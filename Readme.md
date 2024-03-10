@@ -22,7 +22,7 @@ This is a Node.js terminal application that allows you to perform SNMP (Simple N
    npm install
    ```
 
-4. Run SNMP agent first (run with suda privilage ,so the node can bind to your system udp port 161):
+4. Run SNMP agent first (run with sudo privilage ,so the node can bind to your system udp port 161):
 
    ```
    sudo node snmp_agent.js
