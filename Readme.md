@@ -7,7 +7,7 @@ This is a Node.js terminal application that allows you to perform SNMP (Simple N
 1. Clone the repository:
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/gouthamsk98/nodejs-snmp-terminal.git
    ```
 
 2. Navigate to the project directory:
